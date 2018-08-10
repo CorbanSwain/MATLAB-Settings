@@ -1,0 +1,33 @@
+# corban_custom_2 - MATLAB color scheme
+# Generated with schemer_export v1.4.0, on MATLAB 9.3.0.713579 (R2017b)
+# Tue Jul 31 13:41:05 EDT 2018
+# To enable this color scheme in MATLAB use schemer_import, available at:
+#     https://github.com/scottclowe/matlab-schemer
+#     https://www.mathworks.com/matlabcentral/fileexchange/53862-matlab-schemer
+ColorsUseSystem=Bfalse
+ColorsUseMLintAutoFixBackground=Btrue
+Editor.VariableHighlighting.Automatic=Btrue
+Editor.NonlocalVariableHighlighting=Btrue
+EditorCodepadHighVisible=Btrue
+EditorCodeBlockDividers=Btrue
+Editorhighlight-caret-row-boolean=Btrue
+EditorRightTextLineVisible=Btrue
+EditorRightTextLimitLineWidth=I1
+ColorsText=C-460560
+ColorsBackground=C-14211038
+Colors_M_Keywords=C-53126
+Colors_M_Comments=C-9525930
+Colors_M_Strings=C-1910916
+Colors_M_UnterminatedStrings=C-39579
+Colors_M_SystemCommands=C-8921345
+Colors_M_Errors=C-39579
+Colors_HTML_HTMLLinks=C-526353
+Colors_M_Warnings=C-27648
+ColorsMLintAutoFixBackground=C-11974594
+Editor.VariableHighlighting.Color=C-4259649
+Editor.NonlocalVariableHighlighting.TextColor=C-16729641
+Editorhighlight-lines=C-15329773
+Editorhighlight-caret-row-boolean-color=C-10066330
+EditorRightTextLimitLineColor=C-3355444
+Color_CmdWinWarnings=C-18871
+Color_CmdWinErrors=C-39579
